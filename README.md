@@ -187,15 +187,3 @@ python-dotenv
 ## License
 
 This project is licensed under the MIT License.
-```
-
----
-
-## How to Use
-
-1. Go to your repository on GitHub
-2. Click on `README.md`
-3. Click the pencil icon (Edit)
-4. Delete everything
-5. Paste the above content
-6. Click **"Commit changes"**
