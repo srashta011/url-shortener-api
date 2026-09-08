@@ -1,4 +1,5 @@
-URL Shortener API
+URL Shortener API :  
+
 A production-ready URL shortener service built with FastAPI, PostgreSQL, and SQLAlchemy. Shorten long URLs, track click analytics, and manage redirects with ease.
 
 ---
